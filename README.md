@@ -1,4 +1,4 @@
-# RSA Encryption Project
+# RSA Algorithm Project
 
 This project implements RSA encryption and decryption using Python. It provides a user-friendly GUI for encrypting and decrypting files of any type and size. Performance metrics such as encryption/decryption time, CPU usage, and memory usage are displayed after each operation.
 
